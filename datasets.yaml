@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Data Sets/playersDetectionYolo
+val: /content/drive/MyDrive/Data Sets/playersDetectionYolo
+nc: 2
+names: ['ball','player']
